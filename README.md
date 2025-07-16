@@ -71,4 +71,12 @@ class ReportVisitor implements Visitor {
 Este enfoque demuestra que es posible construir sistemas complejos:  
 - **Sin dependencia de DBMS** mediante estructuras de datos óptimas  
 - **Mantenible** gracias a POO y patrones de diseño  
-- **Eficiente** con algoritmos seleccionados para cada caso de uso  
+- **Eficiente** con algoritmos seleccionados para cada caso de uso
+
+## 👥 Colaboradores
+
+Este proyecto fue desarrollado en colaboración por:
+- [Andrés Henao](https://github.com/wolsybl) – Diseño de algoritmos y estructuras de datos
+- [Jean Schneider](https://github.com/schnneider-utp) – Arquitectura POO y patrones de diseño
+- [Juan Esteban Jaramillo](https://github.com/JuanesUTP) – Desarrollo de flujo de datos y documentación
+
